@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d301137-e5a0-450b-a5df-89f8a229d02b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/select.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tables.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heading.html" beforeDir="false" afterPath="$PROJECT_DIR$/heading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_assignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/iframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs.html" beforeDir="false" afterPath="$PROJECT_DIR$/inputs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -55,7 +51,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642397207789</updated>
-      <workItem from="1642397212470" duration="7384000" />
+      <workItem from="1642397212470" duration="12675000" />
+      <workItem from="1642479792273" duration="23919000" />
+      <workItem from="1642565504496" duration="881000" />
     </task>
     <servers />
   </component>
